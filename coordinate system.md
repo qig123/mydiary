@@ -1,11 +1,13 @@
 # coordinate system
 
-![](D:\687474703a2f2f7777312e73696e61696d672e636e2f6c617267652f30303558746469326a7731663171796862717669686a333038633064776a72682e6a7067.jpg)
+![](http://ww1.sinaimg.cn/large/005Xtdi2jw1f1qyhbqvihj308c0dwjrh.jpg)
+
+
 
 # view coordinate
 
-![](D:\view坐标.jpg)
+![](http://ww2.sinaimg.cn/large/005Xtdi2gw1f1qzqwvkkbj308c0dwgm9.jpg)
 
 # MotionEvent coordinate
 
-![](D:\Mo.jpg)
+![](http://ww1.sinaimg.cn/large/005Xtdi2jw1f1r2bdlqhbj308c0dwwew.jpg)
