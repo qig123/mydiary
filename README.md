@@ -1,1 +1,1 @@
-# mydiary
+## some techniacl things
